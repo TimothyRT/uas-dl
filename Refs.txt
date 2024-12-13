@@ -1,0 +1,7 @@
+== Datasets ==
+https://www.kaggle.com/datasets/hjhalani30/haiku-dataset
+
+== Papers ==
+https://www.anlp.jp/proceedings/annual_meeting/2017/pdf_dir/B7-5.pdf
+https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1234/final-reports/final-report-169444285.pdf
+https://www.jamez.it/blog/wp-content/uploads/2021/05/Haiku-Generation-A-Transformer-Based-Approach-With-Lots-Of-Control.pdf
